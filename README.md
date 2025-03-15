@@ -1,4 +1,4 @@
-# Przeliczniik walut
+# Przelicznik walut
 
 Program przeglądarkowy napisany na potrzeby zaliczenia zadania w Internetowej Szkole Programowania YouCode. 
 Technologie użyte to HTML, CSS, JavaScript.
