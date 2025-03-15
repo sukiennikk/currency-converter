@@ -1,4 +1,5 @@
 .form {
+    margin-top: 100px;
     max-width: 500px;
     width: 100%;
     padding: 20px;
@@ -35,7 +36,6 @@ margin-right: 5px;
 
 .form__button:hover {
     background-color: rgb(8, 50, 165);
-
 }
 
 .form__button:active {
