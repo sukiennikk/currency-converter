@@ -1,11 +1,12 @@
 .element {
+    margin: 0 auto;
     width: max-content;
     height: max-content;
     background-image: url("../images/background.jpg");
 }
 
 .form {
-    margin-top: 100px;
+    margin-top: 70px;
     max-width: 500px;
     width: 100%;
     padding: 20px;
