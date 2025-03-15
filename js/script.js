@@ -3,8 +3,8 @@ let amountElement = document.querySelector('.js-amount');
 let currencyElement = document.querySelector('.js-currency');
 let resultElement = document.querySelector('.js-result');
 
-let rateEUR = 4.19;
-let rateUSD = 3.84;
+const rateEUR = 4.19;
+const rateUSD = 3.84;
 
 formElement.addEventListener('submit', (event) => {
     event.preventDefault();
@@ -27,3 +27,10 @@ formElement.addEventListener('submit', (event) => {
     resultElement.innerHTML = `${amount} PLN = ${result} ${currency}`;
 
 });
+
+function myFunction() {
+    var zmienna = 5;
+    console.log(zmienna);
+}
+
+myFunction();
