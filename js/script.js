@@ -27,10 +27,3 @@ formElement.addEventListener('submit', (event) => {
     resultElement.innerHTML = `${amount} PLN = ${result} ${currency}`;
 
 });
-
-function myFunction() {
-    var zmienna = 5;
-    console.log(zmienna);
-}
-
-myFunction();
