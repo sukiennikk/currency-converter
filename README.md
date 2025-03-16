@@ -7,3 +7,7 @@ Technologie użyte to HTML, CSS, JavaScript.
 ## Podgląd programu
 
 ![Podgląd programu](https://i.postimg.cc/Y07pSnYq/readme.png)
+
+## Demo 
+
+https://sukiennikk.github.io/currency-converter/
